@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007988244157",
+    "project_id": "flutterfirefly-59b0e",
+    "storage_bucket": "flutterfirefly-59b0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007988244157:android:4be9c4c253f1e34d5481d4",
+        "android_client_info": {
+          "package_name": "com.theappwizard.flutterfirely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIdicoRWLr718HoKaxYb59WSKr6IafNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
