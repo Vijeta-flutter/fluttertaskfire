@@ -1,4 +1,4 @@
-# FlutterFirely
+# FlutterFirelyTask
 
 Firebase Auth and Storage
 
